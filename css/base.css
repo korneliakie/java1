@@ -169,14 +169,17 @@ font-weight: 400;
 }
 
 .credits {
-text-align: center;
+bottom: 1vw;
+left: 1vw;
+text-align: right;
+position:fixed;
+
 }
 
 .credits--fixed {
-position: fixed;
-bottom: 5vw;
-margin: 0;
-left: 5vw;
+position:fixed;
+bottom: 1vw;
+right: 1vw;
 width: 90vw;
 text-align: right;
 }
